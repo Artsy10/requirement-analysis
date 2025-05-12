@@ -28,7 +28,7 @@ Identifying constraints and goals
 
 Prioritizing requirements (must-have vs nice-to-have)
 
-✅ Why It's Important:
+✅Why is Requirement Analysis Important?
 Prevents misunderstandings
 
 Saves time and money
