@@ -246,7 +246,7 @@ Can be used throughout the project as a quick visual reference for system behavi
 Help in Testing
 
 Test cases can be derived directly from use cases, improving test coverage.
-![Use Case Diagram](alx-booking-uc.png)
+![Image](https://github.com/user-attachments/assets/e6882be9-2bda-4ee6-8fe8-891c66eb6877)
 
 
 
