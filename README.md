@@ -95,6 +95,130 @@ Prototypes or mockups
 
 Client sign-offs
 
+Types of Requirements
+1. Requirement Gathering
+Definition:
+This initial phase involves collecting high-level requirements from stakeholders, including business owners, hotel managers, and end-users.
+
+Functional Requirements:
+
+Allow hotel managers to register and list their properties.
+
+Enable customers to search for hotels based on location, dates, and preferences.
+
+Facilitate booking of rooms with real-time availability updates.
+
+Process payments securely through integrated payment gateways.
+
+Non-Functional Requirements:
+
+The system should be accessible 24/7 with 99.9% uptime.
+
+Ensure data privacy and compliance with regulations like GDPR.
+
+Provide a responsive user interface across devices (desktop, tablet, mobile).
+
+Support scalability to handle peak booking periods without performance degradation.
+AltexSoft
+
+2. Requirement Elicitation
+Definition:
+This phase involves engaging with stakeholders to uncover detailed requirements, often through interviews, surveys, and observation.
+
+Functional Requirements:
+
+Implement user authentication and profile management for both customers and hotel managers.
+
+Allow hotel managers to update room availability, pricing, and descriptions.
+
+Enable customers to view booking history and manage reservations.
+
+Integrate with third-party services for reviews and ratings.
+Course Hero
++1
+Scribd
++1
+
+Non-Functional Requirements:
+
+System should respond to user actions within 2 seconds under normal load.
+
+Maintain a consistent look and feel across all modules for better user experience.
+
+Ensure the system is compatible with major browsers and operating systems.
+
+Implement robust logging for monitoring and troubleshooting purposes.
+Course Hero
++4
+LinkedIn
++4
+AltexSoft
++4
+AltexSoft
+
+3. Requirement Documentation
+Definition:
+Documenting all gathered and elicited requirements in a structured format to serve as a reference throughout the project lifecycle.
+
+Functional Requirements:
+
+Create a Software Requirements Specification (SRS) detailing all system functionalities.
+
+Develop user stories and use cases for various user interactions.
+
+Outline data flow diagrams to represent system processes.
+
+Non-Functional Requirements:
+
+Include performance benchmarks and load handling capabilities in the documentation.
+
+Specify security protocols and data protection measures.
+
+Detail compliance requirements with industry standards and regulations.
+AltexSoft
+
+4. Requirement Analysis and Modeling
+Definition:
+Analyzing documented requirements to identify dependencies, conflicts, and feasibility, often using modeling techniques.
+
+Functional Requirements:
+
+Develop entity-relationship diagrams to model database structures.
+
+Create sequence diagrams to visualize interactions between system components.
+
+Analyze workflows for booking, cancellation, and refund processes.
+
+Non-Functional Requirements:
+
+Assess system scalability to accommodate future growth.
+
+Evaluate system reliability and fault tolerance mechanisms.
+
+Analyze potential security vulnerabilities and mitigation strategies.
+LinkedIn
+
+5. Requirement Validation
+Definition:
+Ensuring that the documented requirements accurately reflect stakeholder needs and are feasible for implementation.
+GeeksforGeeks
+
+Functional Requirements:
+
+Conduct walkthroughs and reviews with stakeholders to validate requirements.
+
+Perform prototyping to gather feedback on user interfaces and functionalities.
+
+Validate integration points with third-party services.
+
+Non-Functional Requirements:
+
+Execute performance testing to ensure response times meet specified criteria.
+
+Conduct security testing to verify data protection measures.
+
+Perform usability testing to assess user satisfaction and interface intuitiveness.
+
 
 
 
