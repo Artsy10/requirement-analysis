@@ -221,7 +221,7 @@ Perform usability testing to assess user satisfaction and interface intuitivenes
 
 
 Use Case Diagrams
-✅ What Are Use Case Diagrams?
+✅ What Are Use Case Diagrams? 
 Use Case Diagrams are a type of behavioral diagram in the Unified Modeling Language (UML) that visually represent the interactions between users (actors) and a system. These diagrams show what the system should do (the use cases) from a user's perspective, without detailing how those tasks are performed. 🌟 Benefits of Use Case Diagrams:
 Clarify System Requirements
 
