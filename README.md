@@ -220,5 +220,33 @@ Conduct security testing to verify data protection measures.
 Perform usability testing to assess user satisfaction and interface intuitiveness.
 
 
+Use Case Diagrams
+✅ What Are Use Case Diagrams?
+Use Case Diagrams are a type of behavioral diagram in the Unified Modeling Language (UML) that visually represent the interactions between users (actors) and a system. These diagrams show what the system should do (the use cases) from a user's perspective, without detailing how those tasks are performed. 🌟 Benefits of Use Case Diagrams:
+Clarify System Requirements
+
+They help stakeholders understand what the system is supposed to do—clearly and concisely.
+
+Support Communication
+
+Great for discussions between developers, clients, and non-technical stakeholders.
+
+Define Scope
+
+Show the boundaries of the system—what's inside (automated processes) vs. outside (external actors).
+
+Aid in Planning
+
+Identify key functionalities early, helping in resource estimation and task prioritization.
+
+Serve as a Reference
+
+Can be used throughout the project as a quick visual reference for system behavior.
+
+Help in Testing
+
+Test cases can be derived directly from use cases, improving test coverage.
+
+![alx-booking-uc](https://github.com/user-attachments/assets/e3b6d730-08c4-407d-80b6-b2b0013623a0)
 
 
