@@ -248,6 +248,47 @@ Help in Testing
 Test cases can be derived directly from use cases, improving test coverage.
 ![Image](https://github.com/user-attachments/assets/e6882be9-2bda-4ee6-8fe8-891c66eb6877)
 
+Acceptance Criteria
+Acceptance Criteria are a set of predefined requirements that a feature or product must meet to be accepted by the client, stakeholder, or user. They act as a bridge between stakeholders and developers, ensuring that everyone shares a common understanding of what needs to be built and how it will be evaluated.
+
+✅ Why Acceptance Criteria Matter:
+Clarity of Scope
+Clearly defines what is in-scope and out-of-scope, reducing ambiguity and misunderstandings.
+
+Improved Communication
+Keeps developers, testers, and stakeholders aligned by outlining expected outcomes and use cases.
+
+Testability
+Acceptance criteria act as the basis for test cases, enabling quality assurance teams to verify that the functionality works as expected.
+
+Prevent Scope Creep
+Helps avoid unexpected changes or additions during development by defining "done."
+
+User-Centric Development
+Focuses on how the end-user will interact with the system, leading to better UX design decisions.
+
+🛒 Example: Acceptance Criteria for Checkout Feature in a Booking Management System
+Feature: Checkout (Final step after booking an Airbnb-style property)
+Acceptance Criteria:
+
+✅ User must be logged in to proceed to the checkout page.
+
+✅ Selected booking details (property, price, dates, number of guests) must be displayed.
+
+✅ The system should calculate the total price including taxes and service fees.
+
+✅ Users must be able to enter payment information securely.
+
+✅ Users must be able to review and confirm their booking before finalizing the payment.
+
+✅ On successful payment, a confirmation message and booking ID must be displayed.
+
+✅ A confirmation email must be sent to the user after the booking is complete.
+
+✅ If payment fails, an error message must be shown with an option to retry.
+
+
+
 
 
 
